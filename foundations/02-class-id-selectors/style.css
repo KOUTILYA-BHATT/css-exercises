@@ -1,0 +1,19 @@
+.odd{
+    background: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.font24{
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    background: lightgreen;
+    font-weight: bold;
+}
